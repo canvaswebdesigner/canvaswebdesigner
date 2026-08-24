@@ -14,10 +14,14 @@ Yerel işletmeler için **mobil uyumlu, hızlı ve dönüşüm odaklı** web sit
 
 | Proje | Odak | Bağlantılar |
 | --- | --- | --- |
-| **Alarmon Auto Garage** | PPF, seramik kaplama ve araç bakım teklif akışı | [Canlı demo](https://alarmon-auto-garage-demo.pages.dev/) · [Kaynak](https://github.com/canvaswebdesigner-blip/alarmon-auto-garage-demo) |
-| **Today Sports Gaziemir** | Pilates ve grup dersleri için güven ve iletişim odaklı sunum | [Canlı demo](https://today-sports-gaziemir.pages.dev/) · [Kaynak](https://github.com/canvaswebdesigner-blip/today-sports-gaziemir) |
-| **North Studio Gaziemir** | Pilates, HIIT, fitness ve yoga için premium mobil deneyim | [Canlı demo](https://north-studio-gaziemir-demo.pages.dev/) · [Kaynak](https://github.com/canvaswebdesigner-blip/north-studio-gaziemir-demo) |
-| **Buca Tattoo Şirinyer** | Görsel galeri, lightbox ve mobil yakınlaştırma deneyimi | [Canlı demo](https://buca-tattoo-sirinyer-demo.pages.dev/) · [Kaynak](https://github.com/canvaswebdesigner-blip/buca-tattoo-sirinyer-demo) |
+| **Alarmon Auto Garage** | PPF, seramik kaplama ve araç bakım teklif akışı | [Canlı demo](https://alarmon-auto-garage-demo.pages.dev/) · [Kaynak](https://github.com/canvaswebdesigner/alarmon-auto-garage-demo) |
+| **Today Sports Gaziemir** | Pilates ve grup dersleri için güven ve iletişim odaklı sunum | [Canlı demo](https://today-sports-gaziemir.pages.dev/) · [Kaynak](https://github.com/canvaswebdesigner/today-sports-gaziemir) |
+| **North Studio Gaziemir** | Pilates, HIIT, fitness ve yoga için premium mobil deneyim | [Canlı demo](https://north-studio-gaziemir-demo.pages.dev/) · [Kaynak](https://github.com/canvaswebdesigner/north-studio-gaziemir-demo) |
+| **Buca Tattoo Şirinyer** | Görsel galeri, lightbox ve mobil yakınlaştırma deneyimi | [Canlı demo](https://buca-tattoo-sirinyer-demo.pages.dev/) · [Kaynak](https://github.com/canvaswebdesigner/buca-tattoo-sirinyer-demo) |
+| **Detailing İzmir** | Araç detaylandırma için portfolyo, güven ve hızlı teklif akışı | [Canlı demo](https://canvaswebdesigner.github.io/detailing-izmir-demo/) · [Kaynak](https://github.com/canvaswebdesigner/detailing-izmir-demo) |
+| **Hazel Nailbook Studio** | Güzellik stüdyosu için çok sayfalı hizmet ve randevu deneyimi | [Kaynak](https://github.com/canvaswebdesigner/hazel-nailbook-studio) |
+
+[GitHub depolarımın tamamını görüntüle](https://github.com/canvaswebdesigner?tab=repositories)
 
 ## Tasarım yaklaşımım
 
