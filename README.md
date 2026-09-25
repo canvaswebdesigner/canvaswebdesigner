@@ -9,7 +9,7 @@ Yerel işletmeler için mobil uyumlu, hızlı ve dönüşüm odaklı web siteler
 - WhatsApp, telefon, Instagram ve yol tarifi odaklı dönüşüm akışları
 - Etkileşimli galeriler, yakınlaştırma deneyimi ve özel 404 sayfaları
 - Responsive, erişilebilirlik, performans ve canlı yayın kontrolleri
-- GitHub üzerinde sürümleme ve Cloudflare Pages üzerinde yayın
+- GitHub üzerinde sürümleme ve Cloudflare Pages/Workers üzerinde yayın
 
 ## Canlı çalışmalar
 
@@ -17,6 +17,7 @@ Aşağıdaki bağlantılar işletmeler için hazırlanmış canlı önizleme ve 
 
 | Proje | Tasarım ve iş odağı | Canlı bağlantı |
 | --- | --- | --- |
+| **Midhat Interiors** | Karachi merkezli iç mimarlık markası için editoryal proje anlatımı, hizmet keşfi ve WhatsApp teklif akışı | [Canlı önizleme](https://midhat-interiors.canvaswebdesigner.workers.dev/) · [Kaynak](https://github.com/canvaswebdesigner/midhat-interiors) |
 | **İnka Tattoo Piercing** | Gerçek portföy, filtrelenebilir galeri, mobil pinch-to-zoom ve ilk iletişim akışı | [Canlı önizleme](https://inka-tattoo-piercing.pages.dev/) |
 | **Dreamland Baby Studio** | Yenidoğan, bebek, çocuk ve aile çekimleri için güçlü görsel hikâye ve çekim planlama | [Canlı önizleme](https://dreamland-baby-studio.pages.dev/) |
 | **Anna Groom Pet Spa** | Irka özel bakım yaklaşımı, hizmet seçimi ve WhatsApp randevu planlama | [Canlı önizleme](https://anna-groom-pet-spa.pages.dev/) |
