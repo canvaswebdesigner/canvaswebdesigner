@@ -17,6 +17,7 @@ Aşağıdaki bağlantılar işletmeler için hazırlanmış canlı önizleme ve 
 
 | Proje | Tasarım ve iş odağı | Canlı bağlantı |
 | --- | --- | --- |
+| **Buwax Özlüce** | Detailing için bağımsız tasarım konsepti; yumuşak cam UI, hizmet keşfi, temsili galeri ve WhatsApp teklif akışı | [Canlı önizleme](https://buwax-ozluce-demo.pages.dev/) · [Kaynak](https://github.com/canvaswebdesigner/buwax-ozluce-demo) |
 | **Midhat Interiors** | Karachi merkezli iç mimarlık markası için editoryal proje anlatımı, hizmet keşfi ve WhatsApp teklif akışı | [Canlı önizleme](https://midhat-interiors.canvaswebdesigner.workers.dev/) · [Kaynak](https://github.com/canvaswebdesigner/midhat-interiors) |
 | **İnka Tattoo Piercing** | Gerçek portföy, filtrelenebilir galeri, mobil pinch-to-zoom ve ilk iletişim akışı | [Canlı önizleme](https://inka-tattoo-piercing.pages.dev/) |
 | **Dreamland Baby Studio** | Yenidoğan, bebek, çocuk ve aile çekimleri için güçlü görsel hikâye ve çekim planlama | [Canlı önizleme](https://dreamland-baby-studio.pages.dev/) |
