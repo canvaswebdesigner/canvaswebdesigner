@@ -1,6 +1,14 @@
 # Yusuf — Web Designer
 
-Yerel işletmeler için mobil uyumlu, hızlı ve dönüşüm odaklı web siteleri tasarlıyorum. Her projeyi işletmenin çalışma biçimine, müşterisinin karar sürecine ve gerçek iletişim kanallarına göre kurguluyorum.
+Freelance web tasarımcı olarak yerel işletmeler için mobil uyumlu web siteleri hazırlıyorum. Her projede işletmeye uygun, güzel ve kullanışlı bir sonuç sunmak için elimden gelenin en iyisini yapıyorum.
+
+## Hizmet ve fiyat
+
+- 5 sayfalık web sitesi: **5.000 TL**
+- Ödeme **IBAN üzerinden** alınır.
+- **2 revizyon hakkı** dahildir.
+
+Randevu sistemi veya özel yazılım gerekiyorsa kapsamı ayrıca netleştiririz.
 
 ## Neler yapıyorum
 
@@ -13,7 +21,7 @@ Yerel işletmeler için mobil uyumlu, hızlı ve dönüşüm odaklı web siteler
 
 ## Canlı çalışmalar
 
-Aşağıdaki bağlantılar işletmeler için hazırlanmış canlı önizleme ve demo çalışmalarıdır.
+Aşağıdaki 13 canlı önizleme bağlantısının tamamı 11 Ekim 2026'da HTTP 200 yanıtıyla kontrol edildi. Bu yalnızca adreslerin erişilebilir olduğunu doğrular; tüm etkileşimlerin veya fiziksel cihazların test edildiği anlamına gelmez. Listelenenler demo/konsept ve önizleme çalışmalarıdır; ücretli müşteri teslimi oldukları iddia edilmiyor.
 
 | Proje | Tasarım ve iş odağı | Canlı bağlantı |
 | --- | --- | --- |
@@ -33,7 +41,7 @@ Aşağıdaki bağlantılar işletmeler için hazırlanmış canlı önizleme ve 
 
 ## Diğer çalışma
 
-- [Hazel Nailbook Studio](https://github.com/canvaswebdesigner/hazel-nailbook-studio) — güzellik ve tırnak stüdyoları için çok sayfalı hizmet ve randevu deneyimi.
+- [Hazel Nailbook Studio](https://github.com/canvaswebdesigner/hazel-nailbook-studio) — kaynak deposu mevcut; doğrulanmış canlı önizleme bağlantısı yok.
 
 [GitHub depolarımın tamamını görüntüle](https://github.com/canvaswebdesigner?tab=repositories)
 
@@ -44,3 +52,4 @@ Aşağıdaki bağlantılar işletmeler için hazırlanmış canlı önizleme ve 
 ## İletişim
 
 Yeni bir proje veya iş birliği için: [canvaswebdesigner@gmail.com](mailto:canvaswebdesigner@gmail.com)
+
