@@ -1,55 +1,62 @@
-# Yusuf — Web Designer
+# Yusuf Şenkaya — Web Designer
 
-Freelance web tasarımcı olarak yerel işletmeler için mobil uyumlu web siteleri hazırlıyorum. Her projede işletmeye uygun, güzel ve kullanışlı bir sonuç sunmak için elimden gelenin en iyisini yapıyorum.
+I design and build responsive websites and landing pages for service businesses. Based in Izmir, Türkiye, I am open to remote freelance projects worldwide.
 
-## Hizmet ve fiyat
+My focus is a clear path from discovering a business to making an inquiry: understandable services, useful visual portfolios and straightforward contact options.
 
-- 5 sayfalık web sitesi: **5.000 TL**
-- Ödeme **IBAN üzerinden** alınır.
-- **2 revizyon hakkı** dahildir.
+[Discuss a project on LinkedIn](https://www.linkedin.com/in/yusuf-senkaya-webdesigner/)
 
-Randevu sistemi veya özel yazılım gerekiyorsa kapsamı ayrıca netleştiririz.
+## What I build
 
-## Neler yapıyorum
+- Business websites and focused landing pages
+- Mobile-friendly service pages and interactive galleries
+- Contact forms, WhatsApp inquiry flows and map integrations
+- Clear navigation and basic on-page SEO
+- GitHub version control and Cloudflare Pages/Workers previews
 
-- İşletmeye özel araştırma, içerik yapısı ve görsel yön
-- Mobil öncelikli UI/UX tasarımı
-- WhatsApp, telefon, Instagram ve yol tarifi odaklı dönüşüm akışları
-- Etkileşimli galeriler, yakınlaştırma deneyimi ve özel 404 sayfaları
-- Responsive, erişilebilirlik, performans ve canlı yayın kontrolleri
-- GitHub üzerinde sürümleme ve Cloudflare Pages/Workers üzerinde yayın
+I use AI-assisted development with hands-on review. I am also developing simple inquiry-tracking and follow-up workflows, initially for auto-detailing businesses.
 
-## Canlı çalışmalar
+## Selected website concepts
 
-Aşağıdaki 13 canlı önizleme bağlantısının tamamı 11 Ekim 2026'da HTTP 200 yanıtıyla kontrol edildi. Bu yalnızca adreslerin erişilebilir olduğunu doğrular; tüm etkileşimlerin veya fiziksel cihazların test edildiği anlamına gelmez. Listelenenler demo/konsept ve önizleme çalışmalarıdır; ücretli müşteri teslimi oldukları iddia edilmiyor.
+These are independent concepts, demos and design previews. They demonstrate my design and development approach and do not imply paid client engagements, endorsement by the businesses, or verified business results. Inquiry links do not automatically confirm appointments.
 
-| Proje | Tasarım ve iş odağı | Canlı bağlantı |
+| Project | Design focus | Live preview |
 | --- | --- | --- |
-| **Buwax Özlüce** | Detailing için bağımsız tasarım konsepti; yumuşak cam UI, hizmet keşfi, temsili galeri ve WhatsApp teklif akışı | [Canlı önizleme](https://buwax-ozluce-demo.pages.dev/) · [Kaynak](https://github.com/canvaswebdesigner/buwax-ozluce-demo) |
-| **Midhat Interiors** | Karachi merkezli iç mimarlık markası için editoryal proje anlatımı, hizmet keşfi ve WhatsApp teklif akışı | [Canlı önizleme](https://midhat-interiors.canvaswebdesigner.workers.dev/) · [Kaynak](https://github.com/canvaswebdesigner/midhat-interiors) |
-| **İnka Tattoo Piercing** | Gerçek portföy, filtrelenebilir galeri, mobil pinch-to-zoom ve ilk iletişim akışı | [Canlı önizleme](https://inka-tattoo-piercing.pages.dev/) |
-| **Dreamland Baby Studio** | Yenidoğan, bebek, çocuk ve aile çekimleri için güçlü görsel hikâye ve çekim planlama | [Canlı önizleme](https://dreamland-baby-studio.pages.dev/) |
-| **Anna Groom Pet Spa** | Irka özel bakım yaklaşımı, hizmet seçimi ve WhatsApp randevu planlama | [Canlı önizleme](https://anna-groom-pet-spa.pages.dev/) |
-| **Liora Nail Studio** | Gerçek çalışmalar, stil seçici, fiyat özeti ve WhatsApp ön talep akışı | [Canlı önizleme](https://liora-nail-studio-bornova.pages.dev/) |
-| **NEXA Pilates & Training** | Pilates ve kişisel antrenman için premium sunum, güven ve iletişim odaklı yapı | [Canlı önizleme](https://nexa-pilates-training.pages.dev/) |
-| **Reforuim Pilates Studio** | Reformer pilates, fonksiyonel antrenman ve yoga için mobil öncelikli deneyim | [Canlı önizleme](https://reforuim-pilates-studio.pages.dev/) |
-| **Alarmon Auto Garage** | PPF, seramik kaplama ve araç bakımı için teklif odaklı dönüşüm akışı | [Canlı demo](https://alarmon-auto-garage-demo.pages.dev/) · [Kaynak](https://github.com/canvaswebdesigner/alarmon-auto-garage-demo) |
-| **Today Sports Gaziemir** | Reformer, Mommy Break, pilates ve yoga için güven ve iletişim odaklı sunum | [Canlı demo](https://today-sports-gaziemir.pages.dev/) · [Kaynak](https://github.com/canvaswebdesigner/today-sports-gaziemir) |
-| **North Studio Gaziemir** | Pilates, HIIT, fitness ve yoga için premium mobil deneyim | [Canlı demo](https://north-studio-gaziemir-demo.pages.dev/) · [Kaynak](https://github.com/canvaswebdesigner/north-studio-gaziemir-demo) |
-| **Buca Tattoo Şirinyer** | Dövme ve piercing için görsel galeri, lightbox ve mobil yakınlaştırma | [Canlı demo](https://buca-tattoo-sirinyer-demo.pages.dev/) · [Kaynak](https://github.com/canvaswebdesigner/buca-tattoo-sirinyer-demo) |
-| **Detailing İzmir** | Araç detaylandırma için portföy, güven ve hızlı teklif akışı | [Canlı demo](https://canvaswebdesigner.github.io/detailing-izmir-demo/) · [Kaynak](https://github.com/canvaswebdesigner/detailing-izmir-demo) |
+| **BUWAX Özlüce** | Auto detailing: service discovery, clearly labelled representative imagery and WhatsApp inquiry preparation | [View concept](https://buwax-ozluce-demo.pages.dev/) |
+| **Alarmon Auto Garage** | Auto care: service presentation, application gallery and vehicle-specific inquiry preparation | [View concept](https://alarmon-auto-garage-demo.pages.dev/) |
+| **Midhat Interiors** | Interior design: English editorial presentation and consultation contact paths | [View concept](https://midhat-interiors.canvaswebdesigner.workers.dev/) |
+| **Liora Nail Studio** | Beauty: visual portfolio, style selection and guided WhatsApp inquiries | [View concept](https://liora-nail-studio-bornova.pages.dev/) |
+| **Anna Groom Pet Spa** | Pet care: service information, representative imagery and an inquiry planner | [View concept](https://anna-groom-pet-spa.pages.dev/) |
+| **Dreamland Baby Studio** | Photography: visual storytelling, photo viewer and session inquiries | [View concept](https://dreamland-baby-studio.pages.dev/) |
+| **İnka Tattoo Piercing** | Tattoo studio: multi-page navigation, filterable gallery and image viewer | [View concept](https://inka-tattoo-piercing.pages.dev/) |
+| **Reforuim Pilates Studio** | Fitness: service discovery and a calm, responsive studio presentation | [View concept](https://reforuim-pilates-studio.pages.dev/) |
+| **Today Sports Gaziemir** | Fitness: service information, representative imagery and contact options | [View concept](https://today-sports-gaziemir.pages.dev/) |
+| **North Studio Gaziemir** | Fitness: service information and direct phone/map contact paths | [View concept](https://north-studio-gaziemir-demo.pages.dev/) |
+| **Buca Tattoo Şirinyer** | Tattoo studio: visual direction, gallery structure and mobile contact paths | [View concept](https://buca-tattoo-sirinyer-demo.pages.dev/) |
+| **Detailing İzmir** | Auto care: service sections and inquiry paths; real work photos are still awaited | [View draft](https://canvaswebdesigner.github.io/detailing-izmir-demo/) |
+| **NEXA Pilates & Training** | Fitness: multi-studio service presentation | [View preview](https://nexa-pilates-training.pages.dev/) |
 
-## Diğer çalışma
+Preview addresses were checked on **5 November 2026**: all 13 returned HTTP 200, and 136 referenced same-origin assets/internal URLs returned no HTTP errors. These are availability checks, not a claim that every feature, device or business detail has been verified.
 
-- [Hazel Nailbook Studio](https://github.com/canvaswebdesigner/hazel-nailbook-studio) — kaynak deposu mevcut; doğrulanmış canlı önizleme bağlantısı yok.
+## Project process
 
-[GitHub depolarımın tamamını görüntüle](https://github.com/canvaswebdesigner?tab=repositories)
+1. Define the business goal, page scope and required content.
+2. Review a design direction before the full build.
+3. Build the agreed pages and check responsive layouts and core interactions.
+4. Agree separately on ongoing updates, support or additional workflows.
 
-## Tasarım yaklaşımım
+## Existing starter package
 
-İlk üç saniyede ne sunulduğunu, neden güvenilir olduğunu ve ziyaretçinin ne yapması gerektiğini anlaşılır hâle getirmeye odaklanıyorum. Tasarım kararlarını yalnızca görünüşe göre değil, işletmenin müşteri kazanma biçimine göre veriyorum.
+- Five-page website: **TRY 5,000**
+- Two revisions included
+- Payment by bank transfer (IBAN)
 
-## İletişim
+Booking systems and custom software require a separate scope discussion.
 
-Yeni bir proje veya iş birliği için: [canvaswebdesigner@gmail.com](mailto:canvaswebdesigner@gmail.com)
+## Other work
 
+[Hazel Nailbook Studio](https://github.com/canvaswebdesigner/hazel-nailbook-studio) has a source repository; a public production URL has not yet been verified.
+
+[Browse public repositories](https://github.com/canvaswebdesigner?tab=repositories)
+
+I am currently studying Information Technology and building my freelance practice through practical projects.
