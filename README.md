@@ -55,7 +55,7 @@ Booking systems and custom software require a separate scope discussion.
 
 ## Other work
 
-[Hazel Nailbook Studio](https://github.com/canvaswebdesigner/hazel-nailbook-studio) has a source repository; a public production URL has not yet been verified.
+[Hazel Nailbook Studio](https://hazel-nailbook-studio.lovable.app/) is an unfinished service-selection design preview. It does not show live availability or create real appointments. Preview status and unavailable booking steps are clearly labelled; business information still needs verification.
 
 [Browse public repositories](https://github.com/canvaswebdesigner?tab=repositories)
 
