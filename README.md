@@ -45,17 +45,23 @@ Preview addresses were checked on **5 November 2026**: all 13 returned HTTP 200,
 3. Build the agreed pages and check responsive layouts and core interactions.
 4. Agree separately on ongoing updates, support or additional workflows.
 
-## Existing starter package
+## Interactive demos and additional work
 
-- Five-page website: **TRY 5,000**
-- Two revisions included
-- Payment by bank transfer (IBAN)
+| Project | What to try | Live demo |
+| --- | --- | --- |
+| **Hazel Nailbook Studio** | Four-step service, date and time selection with a simulated result; no real booking, message or payment | [Try booking demo](https://hazel-nailbook-studio.lovable.app/randevu) |
+| **Servet Ulucan** | Barbershop website, light/dark themes and a local booking simulation; no live appointment or database required | [View demo](https://servet-ulucan-portfolio-demo.lovable.app/) |
+| **Salon Esra** | Hair-salon presentation, filterable photo gallery and FAQs; original editable source restored and tested | [View concept](https://salon-esra-koyundere-demo.canvaswebdesigner.workers.dev/) |
 
-Booking systems and custom software require a separate scope discussion.
+**Demo scope:** Business details, content rights, pricing and real integrations must be verified with the business before a production launch. Some demos use representative or placeholder images. NEXA's live preview works, but its original editable application source has not yet been recovered into its repository.
 
-## Other work
+## Working together
 
-[Hazel Nailbook Studio](https://hazel-nailbook-studio.lovable.app/) is an unfinished service-selection design preview. It does not show live availability or create real appointments. Preview status and unavailable booking steps are clearly labelled; business information still needs verification.
+For a project inquiry, send the business type, the main goal, the pages you need and your preferred timeline. I can then define a clear scope for the website and any additional inquiry workflow.
+
+I am developing automation skills through practical demos. Production CRM, payment, messaging and autonomous operations are scoped and verified separately.
+
+[Discuss a project on LinkedIn](https://www.linkedin.com/in/yusuf-senkaya-webdesigner/)
 
 [Browse public repositories](https://github.com/canvaswebdesigner?tab=repositories)
 
